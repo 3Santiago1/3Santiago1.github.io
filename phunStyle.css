@@ -1,0 +1,29 @@
+#bodyTop{
+    text-align: center;
+    margin-right: 120px;
+}
+
+#bodyTop2{
+    text-align: center;
+    margin-left: 340px;
+}
+
+body {
+    background: linear-gradient(90deg, white, #0914df);
+
+}
+nav{
+    line-height: 30px;
+    height: 100px;
+    width: 120px;
+    padding: 5px;
+    float: left;
+}
+
+footer{
+    text-align: center;
+}
+
+header{
+    text-align: center;
+}
